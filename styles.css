@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(54, 49, 49);
+    color: white;
+}
+div{
+    display: flex
+}
+h2{
+    padding-left: 23px;
+    margin-bottom: 23px;
+}
+a{
+    text-decoration: none;
+}
+.home{
+    padding-left: 240px;
+}
+.About{
+    padding-left: 250px;
+}
+.skill{
+    padding-left:250px;
+}
+.img{
+    float: right;
+    height: 300px;
+    border-radius:50%;
+    background: transparent;
+    margin-right:200px;
+}
+.hello{
+    color: brown;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+h3{
+    margin-left: 20px;
+}
+.engineer{
+    color: rgb(73, 82, 64);
+}
+main{
+    margin-left: 34px;
+}
